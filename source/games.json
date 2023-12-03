@@ -1,0 +1,17 @@
+{
+    "version": 1,
+    "rules": [
+        {
+            "domain": [
+                "gr-prod-steam.fromsoftware-game.net"
+            ],
+            "domain_keyword": [
+                "warframe",
+                "paradox"
+            ],
+            "domain_suffix": [
+                "battle.net"
+            ]
+        }
+    ]
+}
